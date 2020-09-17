@@ -14,16 +14,19 @@ Hi, I'm Victor Kich, a believer that self study is the best way for the modern s
 
 **Languages and Tools:**  
 
-<code><img height="20" src="imgs/python_refactored.png"></code>
-<code><img height="20" src="imgs/java_refactored.png"></code> 
-<code><img height="20" src="imgs/cpp_refactored.png"></code>   
-<code><img height="20" src="imgs/pytorch_refactored.png"></code>
-<code><img height="20" src="imgs/keras_refactored.png"></code> 
-<code><img height="20" src="imgs/numpy_refactored.png"></code>
-<code><img height="20" src="imgs/pandas_refactored.png"></code>
-<code><img height="20" src="imgs/matplotlib_refactored.png"></code> 
-<code><img height="15" src="imgs/vispy_refactored.png"></code> 
+<!-- <img height="20" src="imgs/cpp_refactored.png"> -->
+<code><img height="20" src="imgs/python_refactored.png">
+<img height="20" src="imgs/java_refactored.png">
+<img height="20" src="imgs/pytorch_refactored.png">
+<img height="20" src="imgs/keras_refactored.png">
+<img height="20" src="imgs/numpy_refactored.png">
+<img height="20" src="imgs/pandas_refactored.png">
+<img height="20" src="imgs/matplotlib_refactored.png"> 
+<img height="15" src="imgs/vispy_refactored.png"></code> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=victorkich&show_icons=true&include_all_commits=true&theme=algolia" alt="Victor's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorkich&show_icons=true&include_all_commits=true&theme=algolia" alt="Victor's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkich&layout=compact&theme=algolia" />
 </a>
