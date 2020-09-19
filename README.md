@@ -31,6 +31,7 @@ Hi, I'm Victor Kich, a believer that self study is the best way for the modern s
 <img height="15" src="imgs/vispy.png" alt="Vispy">
 </code> 
 
+</br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorkich&show_icons=true&include_all_commits=true&theme=algolia" alt="Victor's github stats" />
