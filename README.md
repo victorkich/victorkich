@@ -2,8 +2,8 @@
 
 Hi, I'm Victor Kich, a believer that self study is the best way to the modern student learn new things. I really enjoy working with robotics, neural networks, reinforcement learning, and computer graphics.
 
-- 🔭 I’m currently working on [Jubileo](https://github.com/victorkich/jubileo), [RiAE](https://github.com/victorkich/RiAE), and [ManyTor](https://github.com/victorkich/ManyTor)
-- 🌱 I’m currently learning Deep Reinforcement Learning with [PyTorch](https://pytorch.org/)
+- 🔭 I’m currently working on [RiAE](https://github.com/victorkich/RiAE), [ManyTor](https://github.com/victorkich/ManyTor), [Jubileo](https://github.com/victorkich/jubileo)(private), and [Dibbuk Box](https://github.com/victorkich/Dibbuk-Box)(private)
+- 🌱 I’m currently learning Deep Reinforcement Learning with [PyTorch](https://pytorch.org/), and Computer Graphics with [OpenGL](https://www.opengl.org/)
 - 📫 How to reach me: victorkich@yahoo.com.br
 - 💬 Ask me about anything [here](https://github.com/victorkich/victorkich/issues)
 
