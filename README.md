@@ -14,12 +14,12 @@ Hi, I'm Victor Kich, a believer that self-study is the best way for modern stude
 
 **Languages and Tools:**  
 
-<!-- <img height="20" src="imgs/cpp.png" alt="C++"> --> 
 <!-- <img height="20" src="imgs/tensorflow.png" alt="TensorFlow"> -->
 <!-- <img height="15" src="imgs/opengl.png" alt="OpenGL"> -->
 
 <code>
 <img height="20" src="imgs/python.png" alt="Python">
+<img height="20" src="imgs/cpp.png" alt="C++">
 <img height="20" src="imgs/java.png" alt="Java">
 <img height="20" src="imgs/arduino.png" alt="Arduino">
 <img height="20" src="imgs/pytorch.png" alt="PyTorch">
