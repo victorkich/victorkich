@@ -33,9 +33,10 @@ Hi, I'm Victor Kich, a believer that self-study is the best way for modern stude
 
 </br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorkich&show_icons=true&include_all_commits=true&theme=algolia" alt="Victor's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</p>
+
+</p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkich&layout=compact&theme=algolia" />
-</a>
+</p>
