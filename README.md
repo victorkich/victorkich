@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Victor Kich!</h1>
 <h4 align="center">Hi, I'm Victor Kich, a believer that self-study is the best way for modern students to learn new things. I really enjoy working with robotics, generative deep learning, deep reinforcement learning, and computer graphics.</h4>
 
+<hr>
+
 ### Some of my features:
 
 - 🔭 I’m currently working on [RiVAE](https://github.com/victorkich/RiVAE), [ManyTor](https://github.com/victorkich/ManyTor), [Jubileo](https://github.com/victorkich/jubileo)(private), and [Dibbuk Box](https://github.com/victorkich/Dibbuk-Box)(private)
@@ -13,11 +15,12 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-**Languages and Tools:**  
+<h4 align="center">Languages and Tools:</h4>
 
 <!-- <img height="20" src="imgs/tensorflow.png" alt="TensorFlow"> -->
 <!-- <img height="15" src="imgs/opengl.png" alt="OpenGL"> -->
 
+<p align="center">
 <code>
 <img height="20" src="imgs/python.png" alt="Python">
 <img height="20" src="imgs/cpp.png" alt="C++">
@@ -30,7 +33,10 @@
 <img height="20" src="imgs/pyqt5.png" alt="PyQt5">
 <img height="20" src="imgs/matplotlib.png" alt="Matplotlib"> 
 <img height="15" src="imgs/vispy.png" alt="Vispy">
-</code> 
+</code>
+</p>
+
+<hr>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorkich&show_icons=true&include_all_commits=true&theme=algolia" alt="Victor's github stats" />
