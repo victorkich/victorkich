@@ -46,4 +46,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkich&layout=compact&theme=algolia" />
 </p>
 
-<h5 align="center">"Educations isn't something you can finish". Asimov, Isaac.</h5>
+<h5 align="center">"Education isn't something you can finish". Asimov, Isaac.</h5>
