@@ -5,8 +5,8 @@
 
 ### Some of my features:
 
-- 🔭 I’m currently working on [RiVAE](https://github.com/victorkich/RiVAE), [ManyTor](https://github.com/victorkich/ManyTor), [Jubileo](https://github.com/victorkich/jubileo)(private), and [Dibbuk Box](https://github.com/victorkich/Dibbuk-Box)(private)
-- 🌱 I’m currently learning Deep Reinforcement Learning with [PyTorch](https://pytorch.org/), and Computer Graphics with [OpenGL](https://www.opengl.org/)
+- 🔭 I’m currently working on [PDRL](https://github.com/victorkich/Parallel-Turtle-DRL)
+- 🌱 I’m currently learning Parallel Deep Reinforcement Learning with [PyTorch](https://pytorch.org/)
 - 📫 How to reach me: victorkich@yahoo.com.br
 - 💬 Ask me about anything [here](https://github.com/victorkich/victorkich/issues)
 
