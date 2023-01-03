@@ -21,19 +21,7 @@
 <!-- <img height="15" src="imgs/opengl.png" alt="OpenGL"> -->
 
 <p align="center">
-<code>
-<img height="20" src="imgs/python.png" alt="Python">
-<img height="20" src="imgs/cpp.png" alt="C++">
-<img height="20" src="imgs/java.png" alt="Java">
-<img height="20" src="imgs/arduino.png" alt="Arduino">
-<img height="20" src="imgs/pytorch.png" alt="PyTorch">
-<img height="20" src="imgs/keras.png" alt="Keras">
-<img height="20" src="imgs/numpy.png" alt="Numpy">
-<img height="20" src="imgs/pandas.png" alt="Pandas">
-<img height="20" src="imgs/pyqt5.png" alt="PyQt5">
-<img height="20" src="imgs/matplotlib.png" alt="Matplotlib"> 
-<img height="15" src="imgs/vispy.png" alt="Vispy">
-</code>
+<code><img height="20" src="imgs/python.png" alt="Python"> <img height="20" src="imgs/cpp.png" alt="C++"> <img height="20" src="imgs/java.png" alt="Java"> <img height="20" src="imgs/arduino.png" alt="Arduino"> <img height="20" src="imgs/pytorch.png" alt="PyTorch"> <img height="20" src="imgs/keras.png" alt="Keras"> <img height="20" src="imgs/numpy.png" alt="Numpy"> <img height="20" src="imgs/pandas.png" alt="Pandas"> <img height="20" src="imgs/pyqt5.png" alt="PyQt5"> <img height="20" src="imgs/matplotlib.png" alt="Matplotlib"> <img height="15" src="imgs/vispy.png" alt="Vispy"></code>
 </p>
 
 <hr>
