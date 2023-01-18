@@ -39,4 +39,6 @@
 <video width="400" height="400" playsinline autoplay muted loop src="./videos/humanoids_2022.mp4">
 </video>
 
+https://raw.githubusercontent.com/victorkich/victorkich/master/videos/humanoids_2022.mp4
+
 <h5 align="center">"Education isn't something you can finish". Asimov, Isaac.</h5>
