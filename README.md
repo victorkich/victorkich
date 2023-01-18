@@ -30,9 +30,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorkich&show_icons=true&include_all_commits=true&theme=algolia" alt="Victor's github stats" />
 </p>
 
-<p align="center">
+<!--p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkich&layout=compact&theme=algolia" />
-</p>
+</p-->
+
+<hr>
 
 <h3>Last published paper:</h3>
 
