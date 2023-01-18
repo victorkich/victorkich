@@ -34,11 +34,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkich&layout=compact&theme=algolia" />
 </p>
 
-<h4>Last published paper</h4>
+<h3>Last published paper:</h3>
 
 <video width="400" height="400" playsinline autoplay muted loop src="./videos/humanoids_2022.mp4">
 </video>
 
-https://raw.githubusercontent.com/victorkich/victorkich/master/videos/humanoids_2022.mp4
+https://user-images.githubusercontent.com/24250842/213219402-ba17c9d5-e0a8-4407-89e2-8244421d60ee.mp4
 
 <h5 align="center">"Education isn't something you can finish". Asimov, Isaac.</h5>
