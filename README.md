@@ -5,9 +5,8 @@
 
 ### Some of my features:
 
-- 🔭 I’m currently working on [PDRL](https://github.com/victorkich/Parallel-Turtle-DRL)
-- 🌱 I’m currently learning Parallel Deep Reinforcement Learning with [PyTorch](https://pytorch.org/)
-- 📫 How to reach me: victorkich@yahoo.com.br
+- 🌱 I’m currently learning Multi Agents Deep Reinforcement Learning applied to robotics
+- 📫 How to reach me: victorkich98@gmail.com
 - 💬 Ask me about anything [here](https://github.com/victorkich/victorkich/issues)
 
 <!-- - 👯 I’m looking to collaborate on ... -->
